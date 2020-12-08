@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:0,
+#EXT-X-VERSION:3
 https://95-213-224-183.livesports24.online/uafootballua1.m3u8
-#EXT-X-ENDLIST
+
