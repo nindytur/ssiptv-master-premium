@@ -1,2 +1,5 @@
-#EXTM3U
-https://95-213-224-183.livesports24.online/uafootballua1.m3u8
+#EXTM3U 
+#EXT-X-VERSION:3
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=625000,NAME=360p,RESOLUTION=640x360
+http://rr2.dens.tv:80/s/s07/01.m3u8
