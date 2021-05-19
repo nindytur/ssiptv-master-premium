@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:10
-#EXTINF:-1,
+#EXTINF:10,
 http://home-tv.my.id/RHS_juni_sribawono/maling.php?channel=usee-transtv
