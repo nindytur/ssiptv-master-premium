@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2500000
+https://d1wz6zummv1gcq.cloudfront.net/out/v1/c21351bd96f24818ad51d0112f229e5d/index_2.m3u8
 https://d3u7f2c3yddrxc.cloudfront.net/out/v1/3f2878ed33c349e988b28548a54a5d94/index_2.m3u8
 https://d34l47jhjotoz1.cloudfront.net/out/v1/e8a2fa146bf1450cb82bbfff73228d17/index_2.m3u8
 
