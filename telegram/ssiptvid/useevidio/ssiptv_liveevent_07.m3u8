@@ -1,6 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2500000
+http://play2.winstar-outlets.com/live2/44a2bd2be0b6002ea689b7aa261ae4c4.m3u8?auth_key=3264362546-0-0-df70b487488f5bba27c01362b9d883f7
+
 https://play.hlsports.com.cn/dayingjiatv/stream-8c321abaa36843ea9d186a2bb86477e1.m3u8
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/0e7536b689084fdbaafcebb129d740fa/index1_3.m3u8
 https://dy691otp5ux1r.cloudfront.net/out/v1/9ee8d393678242069faf6e7b019d4197/index_2.m3u8
